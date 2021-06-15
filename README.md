@@ -31,5 +31,5 @@ $ docker start $service id
 ### stop only 1 service
 
 ```sh
-$ docker start $service id
+$ docker stop $service id
 ```
